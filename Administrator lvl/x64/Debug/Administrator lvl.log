@@ -1,0 +1,11 @@
+﻿  Admin Info.cpp
+  Login page.cpp
+C:\Users\Jason\source\repos\student-normination-system\Administrator lvl\Login page.cpp(66,10): warning C4129: ' ': unrecognized character escape sequence
+  Nomination.cpp
+  Registration.cpp
+  Result.cpp
+  Statistics.cpp
+  userLogin.cpp
+  Voting.cpp
+  Generating Code...
+  Administrator lvl.vcxproj -> C:\Users\Jason\source\repos\student-normination-system\x64\Debug\Administrator lvl.exe
